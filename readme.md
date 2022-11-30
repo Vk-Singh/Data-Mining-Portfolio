@@ -1,4 +1,4 @@
-## Dataset Amazon customer product reviews
+## Sentiment Analysis - Dataset Amazon customer product reviews
 
 Based on the Amazon customer product review datasets which are available at: https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt 
 
@@ -13,3 +13,12 @@ We'd be interested in investigating topics like the following:
 - Do people find certain types of reviews helpful? What is it about the review that might make it helpful?
 - Do paid for reviews impact the review itself (feature 'vine' in the dataset) and is it possible to predict whether the review is by a Vine program member based on the review text?
 - Impact of verified/non verified status on the review helpfulness and in turn how it affects the product sentiment 
+
+
+
+## Smiley Dataset Classification
+
+- Linear regression, Logistic Regression ,ANN and CNN techniques are used for classification of Smiley Dataset.
+- Variation of the efficieny of above mentioned techniques with the change of parameters' values.
+
+
